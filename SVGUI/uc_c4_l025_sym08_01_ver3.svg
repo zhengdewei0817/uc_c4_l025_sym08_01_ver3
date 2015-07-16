@@ -1,0 +1,1984 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="none" x="0px" y="0px" width="662px" height="300px" viewBox="0 0 662 300">
+<defs>
+<linearGradient id="Gradient_1" gradientUnits="userSpaceOnUse" x1="0" y1="-81.375" x2="0" y2="-0.02499999999999858" spreadMethod="pad">
+<stop  offset="0%" stop-color="#C8FADE"/>
+
+<stop  offset="100%" stop-color="#2DB5AA"/>
+</linearGradient>
+
+<linearGradient id="Gradient_2" gradientUnits="userSpaceOnUse" x1="527.65" y1="150.5" x2="634.9499999999999" y2="150.5" spreadMethod="pad">
+<stop  offset="0%" stop-color="#E3F9F0" stop-opacity="0.30196078431372547"/>
+
+<stop  offset="100%" stop-color="#97E7CE"/>
+</linearGradient>
+
+<linearGradient id="Gradient_3" gradientUnits="userSpaceOnUse" x1="139.3" y1="150.5" x2="32" y2="150.5" spreadMethod="pad">
+<stop  offset="0%" stop-color="#E3F9F0" stop-opacity="0.30196078431372547"/>
+
+<stop  offset="100%" stop-color="#97E7CE"/>
+</linearGradient>
+
+<radialGradient id="Gradient_4" gradientUnits="userSpaceOnUse" cx="0" cy="0" r="17.650000000000002" fx="0" fy="0" gradientTransform="matrix( 0.9999999999999999, 0, 0, 0.9999999999999999, 0,0) " spreadMethod="pad">
+<stop  offset="0%" stop-color="#FFFFFF"/>
+
+<stop  offset="100%" stop-color="#FFFFFF" stop-opacity="0"/>
+</radialGradient>
+
+<linearGradient id="Gradient_5" gradientUnits="userSpaceOnUse" x1="205.61249999999998" y1="94.62499999999999" x2="232.7875" y2="181.77499999999998" spreadMethod="pad">
+<stop  offset="0%" stop-color="#EAEEEC"/>
+
+<stop  offset="46.27450980392157%" stop-color="#EEF0EE"/>
+
+<stop  offset="100%" stop-color="#A9BAB4"/>
+</linearGradient>
+
+<linearGradient id="Gradient_6" gradientUnits="userSpaceOnUse" x1="121.45" y1="95.01249999999999" x2="273.85" y2="202.1875" spreadMethod="pad">
+<stop  offset="0%" stop-color="#B3C1BD"/>
+
+<stop  offset="42.35294117647059%" stop-color="#D7DDDA"/>
+
+<stop  offset="100%" stop-color="#9BAEA9"/>
+</linearGradient>
+
+<linearGradient id="Gradient_7" gradientUnits="userSpaceOnUse" x1="279.16249999999997" y1="140.35" x2="297.2375" y2="154.65" spreadMethod="pad">
+<stop  offset="0%" stop-color="#9BAEA7"/>
+
+<stop  offset="100%" stop-color="#D2DBD6"/>
+</linearGradient>
+
+<linearGradient id="Gradient_8" gradientUnits="userSpaceOnUse" x1="121.45" y1="95.01249999999999" x2="273.85" y2="202.1875" spreadMethod="pad">
+<stop  offset="0%" stop-color="#828282"/>
+
+<stop  offset="46.27450980392157%" stop-color="#AFAFAF"/>
+
+<stop  offset="81.96078431372548%" stop-color="#222222"/>
+
+<stop  offset="100%" stop-color="#828282"/>
+</linearGradient>
+
+<linearGradient id="Gradient_9" gradientUnits="userSpaceOnUse" x1="205.61249999999998" y1="94.62499999999999" x2="232.7875" y2="181.77499999999998" spreadMethod="pad">
+<stop  offset="0%" stop-color="#828282"/>
+
+<stop  offset="46.27450980392157%" stop-color="#D1D1D1"/>
+
+<stop  offset="74.11764705882354%" stop-color="#8C8C8C"/>
+</linearGradient>
+
+<linearGradient id="Gradient_10" gradientUnits="userSpaceOnUse" x1="279.16249999999997" y1="140.35" x2="297.2375" y2="154.65" spreadMethod="pad">
+<stop  offset="0%" stop-color="#555555"/>
+
+<stop  offset="100%" stop-color="#777777"/>
+</linearGradient>
+
+<linearGradient id="Gradient_11" gradientUnits="userSpaceOnUse" x1="205.61249999999998" y1="94.62499999999999" x2="232.7875" y2="181.77499999999998" spreadMethod="pad">
+<stop  offset="0%" stop-color="#BCBCBC"/>
+
+<stop  offset="46.27450980392157%" stop-color="#FFFFFF"/>
+
+<stop  offset="58.8235294117647%" stop-color="#CACACA"/>
+
+<stop  offset="100%" stop-color="#DADADA"/>
+</linearGradient>
+
+<linearGradient id="Gradient_12" gradientUnits="userSpaceOnUse" x1="121.45" y1="95.01249999999999" x2="273.85" y2="202.1875" spreadMethod="pad">
+<stop  offset="0%" stop-color="#BCBCBC"/>
+
+<stop  offset="46.27450980392157%" stop-color="#FFFFFF"/>
+
+<stop  offset="58.8235294117647%" stop-color="#CACACA"/>
+
+<stop  offset="75.29411764705883%" stop-color="#7E7E7E"/>
+
+<stop  offset="86.27450980392157%" stop-color="#7E7E7E"/>
+
+<stop  offset="100%" stop-color="#DADADA"/>
+</linearGradient>
+
+<linearGradient id="Gradient_13" gradientUnits="userSpaceOnUse" x1="279.16249999999997" y1="140.35" x2="297.2375" y2="154.65" spreadMethod="pad">
+<stop  offset="0%" stop-color="#9A9A9A"/>
+
+<stop  offset="100%" stop-color="#FCFCFC"/>
+</linearGradient>
+
+<radialGradient id="Gradient_14" gradientUnits="userSpaceOnUse" cx="0" cy="0" r="65.15" fx="0" fy="0" gradientTransform="matrix( 1, 0, 0, 1, -19,-27) " spreadMethod="pad">
+<stop  offset="0%" stop-color="#3175EF"/>
+
+<stop  offset="100%" stop-color="#0D47A8"/>
+</radialGradient>
+
+<filter id="Filter_1" x="-20%" y="-20%" width="140%" height="140%" color-interpolation-filters="sRGB">
+<feColorMatrix in="SourceGraphic" type="matrix" values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0.19 0" result="result1"/>
+</filter>
+
+<filter id="Filter_2" x="-20%" y="-20%" width="140%" height="140%" color-interpolation-filters="sRGB">
+<feColorMatrix in="SourceGraphic" type="matrix" values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0" result="result1"/>
+</filter>
+
+<filter id="Filter_3" x="-20%" y="-20%" width="140%" height="140%" color-interpolation-filters="sRGB">
+<feColorMatrix in="SourceGraphic" type="matrix" values="0.89 0 0 0 0 0 0.89 0 0 0 0 0 0.89 0 0 0 0 0 1 0" result="result1"/>
+</filter>
+
+<filter id="Filter_4" x="-20%" y="-20%" width="140%" height="140%" color-interpolation-filters="sRGB">
+<feColorMatrix in="SourceGraphic" type="matrix" values="0.89 0 0 0 0 0 0.89 0 0 0 0 0 0.89 0 0 0 0 0 0.2 0" result="result1"/>
+</filter>
+
+<filter id="Filter_5" x="-20%" y="-20%" width="140%" height="140%" color-interpolation-filters="sRGB">
+<feColorMatrix in="SourceGraphic" type="matrix" values="0.89 0 0 0 0 0 0.89 0 0 0 0 0 0.89 0 0 0 0 0 0.73 0" result="result1"/>
+</filter>
+
+<filter id="Filter_6" x="-20%" y="-20%" width="140%" height="140%" color-interpolation-filters="sRGB">
+<feColorMatrix in="SourceGraphic" type="matrix" values="0.91 0 0 0 0.09019607843137255 0 0.91 0 0 0.09019607843137255 0 0 0.91 0 0.09019607843137255 0 0 0 1 0" result="result1"/>
+</filter>
+
+<filter id="Filter_7" x="-20%" y="-20%" width="140%" height="140%" color-interpolation-filters="sRGB">
+<feColorMatrix in="SourceGraphic" type="matrix" values="0.91 0 0 0 0.09019607843137255 0 0.91 0 0 0.09019607843137255 0 0 0.91 0 0.09019607843137255 0 0 0 0.2 0" result="result1"/>
+</filter>
+
+<filter id="Filter_8" x="-20%" y="-20%" width="140%" height="140%" color-interpolation-filters="sRGB">
+<feColorMatrix in="SourceGraphic" type="matrix" values="0.91 0 0 0 0.09019607843137255 0 0.91 0 0 0.09019607843137255 0 0 0.91 0 0.09019607843137255 0 0 0 0.73 0" result="result1"/>
+</filter>
+
+<filter id="Filter_9" x="-20%" y="-20%" width="140%" height="140%" color-interpolation-filters="sRGB">
+<feColorMatrix in="SourceGraphic" type="matrix" values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0.2 0" result="result1"/>
+</filter>
+
+<filter id="Filter_10" x="-20%" y="-20%" width="140%" height="140%" color-interpolation-filters="sRGB">
+<feColorMatrix in="SourceGraphic" type="matrix" values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0.73 0" result="result1"/>
+</filter>
+
+<filter id="Filter_11" x="-20%" y="-20%" width="140%" height="140%" color-interpolation-filters="sRGB">
+<feColorMatrix in="SourceGraphic" type="matrix" values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0.35 0" result="result1"/>
+</filter>
+
+<filter id="Filter_12" x="-20%" y="-20%" width="140%" height="140%" color-interpolation-filters="sRGB">
+<feColorMatrix in="SourceGraphic" type="matrix" values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0.11 0" result="result1"/>
+</filter>
+
+<filter id="Filter_13" x="-20%" y="-20%" width="140%" height="140%" color-interpolation-filters="sRGB">
+<feColorMatrix in="SourceGraphic" type="matrix" values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0.4 0" result="result1"/>
+</filter>
+
+<g id="pp_0_Layer0_0_FILL">
+<path fill="#FFFFFF" stroke="none" d="
+M 227.45 -172.5
+L -227.5 -172.5 -227.5 172.5 227.45 172.5 227.45 -172.5 Z"/>
+</g>
+
+<g id="Mask_19_MASK_0_FILL">
+<path fill="#FFFFFF" stroke="none" d="
+M 661.95 300.05
+L 661.95 0.05 -0.05 0.05 -0.05 300.05 661.95 300.05 Z"/>
+</g>
+
+<g id="Symbol_54_0_Layer0_0_FILL">
+<path fill="#000000" stroke="none" d="
+M 223.2 186
+L 281.95 127.75 281.95 0 80.35 0 0 70.25 0 186 223.2 186 Z"/>
+</g>
+
+<g id="tlo_0_Layer0_0_FILL">
+<path fill="url(#Gradient_1)" stroke="none" d="
+M 175.95 144
+L 175.95 -144 -176.05 -144 -176.05 144 175.95 144 Z"/>
+</g>
+
+<g id="Layer16_0_FILL">
+<path fill="url(#Gradient_2)" stroke="none" d="
+M 672.95 310
+L 672.95 -9 520.95 -9 520.95 310 672.95 310 Z"/>
+
+<path fill="url(#Gradient_3)" stroke="none" d="
+M 146 -9
+L -6 -9 -6 310 146 310 146 -9 Z"/>
+</g>
+
+<g id="elekgap_0_Layer0_0_FILL">
+<path fill="#000000" stroke="none" d="
+M 174.4 52.8
+L 174.4 0 33.25 0 0 40.3 0 93.7 139.75 93.7 153.5 79.2 174.4 52.8 Z"/>
+</g>
+
+<g id="minus_uproszczony_0_Layer1_0_FILL">
+<path fill="#3176E8" fill-opacity="0.32941176470588235" stroke="none" d="
+M 13.95 -0.05
+Q 13.954296875 -5.948046875 9.75 -10.15 5.6037109375 -14.2986328125 -0.3 -14.3 -6.19765625 -14.298046875 -10.4 -10.15 -14.548046875 -5.94765625 -14.55 -0.05 -14.5486328125 5.8537109375 -10.4 10 -6.198046875 14.204296875 -0.3 14.2 5.6029296875 14.2025390625 9.75 10 13.9525390625 5.8529296875 13.95 -0.05
+M 9.3 -9.7
+Q 13.29453125 -5.6828125 13.3 -0.05 13.294921875 5.5759765625 9.3 9.55 5.3259765625 13.544921875 -0.3 13.55 -5.9328125 13.54453125 -9.95 9.55 -13.9013671875 5.57578125 -13.9 -0.05 -13.9009765625 -5.6826171875 -9.95 -9.7 -5.9326171875 -13.6509765625 -0.3 -13.65 5.32578125 -13.6513671875 9.3 -9.7 Z"/>
+
+<path fill="#3176E8" fill-opacity="0.6627450980392157" stroke="none" d="
+M 13.3 -0.05
+Q 13.29453125 -5.6828125 9.3 -9.7 5.32578125 -13.6513671875 -0.3 -13.65 -5.9326171875 -13.6509765625 -9.95 -9.7 -13.9009765625 -5.6826171875 -13.9 -0.05 -13.9013671875 5.57578125 -9.95 9.55 -5.9328125 13.54453125 -0.3 13.55 5.3259765625 13.544921875 9.3 9.55 13.294921875 5.5759765625 13.3 -0.05
+M 8.8 -9.2
+Q 12.6216796875 -5.405078125 12.6 -0.05 12.6220703125 5.298046875 8.8 9.05 5.048046875 12.8720703125 -0.3 12.85 -5.655078125 12.8716796875 -9.45 9.05 -13.22890625 5.298046875 -13.25 -0.05 -13.2287109375 -5.4048828125 -9.45 -9.2 -5.6548828125 -12.9787109375 -0.3 -13 5.048046875 -12.97890625 8.8 -9.2 Z"/>
+
+<path fill="#9C9EA5" stroke="none" d="
+M 12.6 -0.05
+Q 12.6216796875 -5.405078125 8.8 -9.2 5.048046875 -12.97890625 -0.3 -13 -5.6548828125 -12.9787109375 -9.45 -9.2 -13.2287109375 -5.4048828125 -13.25 -0.05 -13.22890625 5.298046875 -9.45 9.05 -5.655078125 12.8716796875 -0.3 12.85 5.048046875 12.8720703125 8.8 9.05 12.6220703125 5.298046875 12.6 -0.05 Z"/>
+</g>
+
+<g id="Symbol_1_0_Layer0_0_FILL">
+<path fill="#000000" fill-opacity="0.19607843137254902" stroke="none" d="
+M 36.45 -36.05
+L 36.45 -36.05
+Q 27.65390625 -60.7640625 0.9 -61.5 -0.50078125 -61.5091796875 -1.9 -61.25 -7.491796875 -60.0447265625 -12.1 -56.65
+L -12 -56.65
+Q -20.38671875 -50.5046875 -20.2 -40.5
+L -20.2 -40.45
+Q -20.0125 -24.2431640625 -23.85 -8.5 -24.3640625 -6.284765625 -26.5 -5.65 -26.5126953125 -5.6388671875 -26.55 -5.65 -35.9830078125 -3.044140625 -46.05 -4.5 -46.1736328125 -4.4853515625 -46.3 -4.5 -54.5869140625 -5.535546875 -60.3 -1.1
+L -60.3 -1.05
+Q -68.4560546875 4.8630859375 -68.4 12.75 -69.422265625 19.3447265625 -63.4 27.05 -49.0705078125 45.465234375 -25.2 47.3 -24.857421875 47.344140625 -24.6 47.35 -13.771484375 47.619140625 -3.25 45.7 -3.064453125 45.68046875 -2.9 45.65
+L -2.9 45.65
+Q 6.39453125 44.13046875 14.4 39.35 14.4255859375 39.3638671875 14.45 39.35 34.31953125 27.7513671875 39.25 4.25 43.58515625 -16.07890625 36.45 -36.05
+M 0.8 -59.1
+Q 25.9255859375 -58.411328125 34.2 -35.25 41.0865234375 -15.92265625 36.9 3.75 32.189453125 26.203125 13.2 37.3
+L 13.2 37.3
+Q 5.5552734375 41.84765625 -3.3 43.25 -13.7677734375 45.215625 -24.5 44.95 -24.7359375 44.95546875 -25 44.95 -47.8330078125 43.17265625 -61.55 25.55 -66.8572265625 18.748828125 -66 12.95 -66.009765625 6.0390625 -58.9 0.85
+L -58.9 0.9
+Q -53.89296875 -3.026953125 -46.6 -2.15 -46.4962890625 -2.1109375 -46.4 -2.1 -35.8169921875 -0.6015625 -25.9 -3.35 -25.8619140625 -3.3361328125 -25.85 -3.35 -22.3541015625 -4.347265625 -21.5 -7.9
+L -21.5 -7.95
+Q -17.6 -23.9890625 -17.8 -40.5 -17.965234375 -49.33046875 -10.6 -54.75
+L -10.65 -54.7
+Q -6.4697265625 -57.7935546875 -1.4 -58.9 -0.285546875 -59.102734375 0.8 -59.1 Z"/>
+
+<path fill="#000000" fill-opacity="0.396078431372549" stroke="none" d="
+M 34.2 -35.25
+Q 25.9255859375 -58.411328125 0.8 -59.1 -0.285546875 -59.102734375 -1.4 -58.9 -6.4697265625 -57.7935546875 -10.65 -54.7
+L -10.6 -54.75
+Q -17.965234375 -49.33046875 -17.8 -40.5 -17.6 -23.9890625 -21.5 -7.95
+L -21.5 -7.9
+Q -22.3541015625 -4.347265625 -25.85 -3.35 -25.8619140625 -3.3361328125 -25.9 -3.35 -35.8169921875 -0.6015625 -46.4 -2.1 -46.4962890625 -2.1109375 -46.6 -2.15 -53.89296875 -3.026953125 -58.9 0.9
+L -58.9 0.85
+Q -66.009765625 6.0390625 -66 12.95 -66.8572265625 18.748828125 -61.55 25.55 -47.8330078125 43.17265625 -25 44.95 -24.7359375 44.95546875 -24.5 44.95 -13.7677734375 45.215625 -3.3 43.25 5.5552734375 41.84765625 13.2 37.3
+L 13.2 37.3
+Q 32.189453125 26.203125 36.9 3.75 41.0865234375 -15.92265625 34.2 -35.25
+M 0.8 -56.7
+Q 24.234765625 -56.07109375 31.95 -34.45 38.6001953125 -15.7666015625 34.55 3.25 30.074609375 24.668359375 12 35.25 4.70546875 39.5751953125 -3.75 40.9 -3.8625 40.937890625 -4 40.95 -14.0857421875 42.8044921875 -24.45 42.55 -24.61484375 42.55390625 -24.8 42.55 -46.5705078125 40.867578125 -59.65 24.1 -64.2798828125 18.1404296875 -63.6 13.1 -63.5501953125 7.24140625 -57.45 2.8
+L -57.5 2.85
+Q -53.179296875 -0.5158203125 -46.9 0.25 -46.8068359375 0.2634765625 -46.75 0.25 -35.6111328125 1.85390625 -25.2 -1.05
+L -25.25 -1
+Q -20.379296875 -2.3857421875 -19.2 -7.35 -15.2126953125 -23.7099609375 -15.4 -40.55 -15.5310546875 -48.1150390625 -9.2 -52.8
+L -9.2 -52.8
+Q -5.4423828125 -55.5583984375 -0.9 -56.55 -0.0455078125 -56.695703125 0.8 -56.7 Z"/>
+
+<path fill="#000000" fill-opacity="0.596078431372549" stroke="none" d="
+M 31.95 -34.45
+Q 24.234765625 -56.07109375 0.8 -56.7 -0.0455078125 -56.695703125 -0.9 -56.55 -5.4423828125 -55.5583984375 -9.2 -52.8
+L -9.2 -52.8
+Q -15.5310546875 -48.1150390625 -15.4 -40.55 -15.2126953125 -23.7099609375 -19.2 -7.35 -20.379296875 -2.3857421875 -25.25 -1
+L -25.2 -1.05
+Q -35.6111328125 1.85390625 -46.75 0.25 -46.8068359375 0.2634765625 -46.9 0.25 -53.179296875 -0.5158203125 -57.5 2.85
+L -57.45 2.8
+Q -63.5501953125 7.24140625 -63.6 13.1 -64.2798828125 18.1404296875 -59.65 24.1 -46.5705078125 40.867578125 -24.8 42.55 -24.61484375 42.55390625 -24.45 42.55 -14.0857421875 42.8044921875 -4 40.95 -3.8625 40.937890625 -3.75 40.9 4.70546875 39.5751953125 12 35.25 30.074609375 24.668359375 34.55 3.25 38.6001953125 -15.7666015625 31.95 -34.45
+M 0.7 -54.3
+Q 22.519140625 -53.7306640625 29.7 -33.65 36.111328125 -15.6095703125 32.2 2.75 27.93671875 23.1029296875 10.75 33.15
+L 10.8 33.15
+Q 3.85390625 37.266796875 -4.2 38.55 -14.173828125 40.4017578125 -24.4 40.15 -24.5056640625 40.1525390625 -24.65 40.15 -45.3203125 38.5623046875 -57.75 22.6
+L -57.75 22.65
+Q -61.7029296875 17.5439453125 -61.2 13.25 -61.10390625 8.4189453125 -56.05 4.75
+L -56.1 4.75
+Q -52.452734375 1.9828125 -47.2 2.65 -47.1294921875 2.6509765625 -47.1 2.65 -35.4447265625 4.307421875 -24.55 1.3
+L -24.6 1.3
+Q -18.389453125 -0.458203125 -16.85 -6.8 -12.8 -23.430859375 -13 -40.55 -13.09765625 -46.9330078125 -7.75 -50.85
+L -7.8 -50.85
+Q -4.4498046875 -53.3154296875 -0.4 -54.2 0.16953125 -54.2888671875 0.7 -54.3 Z"/>
+
+<path fill="#000000" fill-opacity="0.796078431372549" stroke="none" d="
+M 29.7 -33.65
+Q 22.519140625 -53.7306640625 0.7 -54.3 0.16953125 -54.2888671875 -0.4 -54.2 -4.4498046875 -53.3154296875 -7.8 -50.85
+L -7.75 -50.85
+Q -13.09765625 -46.9330078125 -13 -40.55 -12.8 -23.430859375 -16.85 -6.8 -18.389453125 -0.458203125 -24.6 1.3
+L -24.55 1.3
+Q -35.4447265625 4.307421875 -47.1 2.65 -47.1294921875 2.6509765625 -47.2 2.65 -52.452734375 1.9828125 -56.1 4.75
+L -56.05 4.75
+Q -61.10390625 8.4189453125 -61.2 13.25 -61.7029296875 17.5439453125 -57.75 22.65
+L -57.75 22.6
+Q -45.3203125 38.5623046875 -24.65 40.15 -24.5056640625 40.1525390625 -24.4 40.15 -14.173828125 40.4017578125 -4.2 38.55 3.85390625 37.266796875 10.8 33.15
+L 10.75 33.15
+Q 27.93671875 23.1029296875 32.2 2.75 36.111328125 -15.6095703125 29.7 -33.65
+M 0.1 -51.85
+Q 0.384765625 -51.881640625 0.65 -51.9 20.803125 -51.377734375 27.4 -32.8 33.616015625 -15.4412109375 29.85 2.25 25.8146484375 21.54765625 9.55 31.1 2.956640625 35.0236328125 -4.7 36.2
+L -4.65 36.2
+Q -14.3521484375 38.00078125 -24.35 37.75 -24.383984375 37.7513671875 -24.45 37.75 -44.0826171875 36.257421875 -55.85 21.15 -59.151171875 16.922265625 -58.8 13.4 -58.658203125 9.6091796875 -54.65 6.7
+L -54.65 6.7
+Q -51.713671875 4.49375 -47.45 5
+L -47.4 5
+Q -35.26640625 6.748828125 -23.9 3.6
+L -23.95 3.6
+Q -16.3875 1.48203125 -14.55 -6.2 -10.4 -23.1517578125 -10.6 -40.6 -10.6640625 -45.758984375 -6.35 -48.95
+L -6.35 -48.95
+Q -3.43984375 -51.0765625 0.1 -51.85 Z"/>
+
+<path fill="#000000" stroke="none" d="
+M 0.65 -51.9
+Q 0.384765625 -51.881640625 0.1 -51.85 -3.43984375 -51.0765625 -6.35 -48.95
+L -6.35 -48.95
+Q -10.6640625 -45.758984375 -10.6 -40.6 -10.4 -23.1517578125 -14.55 -6.2 -16.3875 1.48203125 -23.95 3.6
+L -23.9 3.6
+Q -35.26640625 6.748828125 -47.4 5
+L -47.45 5
+Q -51.713671875 4.49375 -54.65 6.7
+L -54.65 6.7
+Q -58.658203125 9.6091796875 -58.8 13.4 -59.151171875 16.922265625 -55.85 21.15 -44.0826171875 36.257421875 -24.45 37.75 -24.383984375 37.7513671875 -24.35 37.75 -14.3521484375 38.00078125 -4.65 36.2
+L -4.7 36.2
+Q 2.956640625 35.0236328125 9.55 31.1 25.8146484375 21.54765625 29.85 2.25 33.616015625 -15.4412109375 27.4 -32.8 20.803125 -51.377734375 0.65 -51.9 Z"/>
+</g>
+
+<g id="Symbol_2_0_Layer0_0_FILL">
+<path fill="url(#Gradient_4)" stroke="none" d="
+M 12.05 -12.05
+Q 7.05 -17.05 0 -17.05 -7.05 -17.05 -12.05 -12.05 -17.05 -7.05 -17.05 0 -17.05 7.05 -12.05 12.05 -7.05 17.05 0 17.05 7.05 17.05 12.05 12.05 17.05 7.05 17.05 0 17.05 -7.05 12.05 -12.05 Z"/>
+</g>
+
+<g id="Symbol_53_0_Layer0_0_FILL">
+<path fill="#FF0000" stroke="none" d="
+M 21.05 18.75
+L 21.05 11.95 7.9 11.95 7.9 18.75 21.05 18.75 Z"/>
+</g>
+
+<g id="al_0_Layer0_0_FILL">
+<path fill="url(#Gradient_5)" stroke="none" d="
+M 282 132.9
+L 291.35 122 162 119.8 147.35 129.3 282 132.9 Z"/>
+
+<path fill="url(#Gradient_6)" stroke="none" d="
+M 280.9 179.6
+L 282 132.9 147.35 129.3 148.1 174.25 280.9 179.6 Z"/>
+
+<path fill="url(#Gradient_7)" stroke="none" d="
+M 282 132.9
+L 280.9 179.6 289.85 167.6 291.35 122 282 132.9 Z"/>
+</g>
+
+<g id="Symbol_11_0_Layer1_0_FILL">
+<path fill="url(#Gradient_8)" stroke="none" d="
+M 280.9 179.6
+L 282 132.9 147.35 129.3 148.1 174.25 280.9 179.6 Z"/>
+
+<path fill="url(#Gradient_9)" stroke="none" d="
+M 282 132.9
+L 291.35 122 162 119.8 147.35 129.3 282 132.9 Z"/>
+
+<path fill="url(#Gradient_10)" stroke="none" d="
+M 291.35 122
+L 282 132.9 280.9 179.6 289.85 167.6 291.35 122 Z"/>
+</g>
+
+<g id="ag_0_Layer0_0_FILL">
+<path fill="url(#Gradient_11)" stroke="none" d="
+M 282 132.9
+L 291.35 122 162 119.8 147.35 129.3 282 132.9 Z"/>
+
+<path fill="url(#Gradient_12)" stroke="none" d="
+M 280.9 179.6
+L 282 132.9 147.35 129.3 148.1 174.25 280.9 179.6 Z"/>
+
+<path fill="url(#Gradient_13)" stroke="none" d="
+M 282 132.9
+L 280.9 179.6 289.85 167.6 291.35 122 282 132.9 Z"/>
+</g>
+
+<g id="Symbol_5_0_Layer0_0_FILL">
+<path fill="url(#Gradient_14)" stroke="none" d="
+M 45.65 -45.75
+Q 26.76484375 -64.644921875 0 -64.65 -26.7625 -64.6439453125 -45.75 -45.75 -64.6439453125 -26.7625 -64.65 0 -64.644921875 26.76484375 -45.75 45.65 -26.7630859375 64.6466796875 0 64.65 26.7650390625 64.648046875 45.65 45.65 64.648046875 26.7650390625 64.65 0 64.6466796875 -26.7630859375 45.65 -45.75 Z"/>
+</g>
+
+<g id="Symbol_5_0_Layer0_1_FILL">
+<path fill="#3176E8" fill-opacity="0.32941176470588235" stroke="none" d="
+M 50.35 -50.45
+Q 29.5189453125 -71.2931640625 0 -71.3 -29.51328125 -71.290234375 -50.45 -50.45 -71.290234375 -29.51328125 -71.3 0 -71.2931640625 29.5189453125 -50.45 50.35 -29.51484375 71.2974609375 0 71.3 29.515234375 71.30078125 50.35 50.4
+L 50.4 50.35
+Q 71.30078125 29.515234375 71.3 0 71.2974609375 -29.51484375 50.35 -50.45
+M 0 -68
+Q 28.141796875 -67.969140625 48 -48.1 67.9724609375 -28.1388671875 67.95 0 67.97421875 28.14296875 48 48 28.14296875 67.97421875 0 67.95 -28.1388671875 67.9724609375 -48.1 48 -67.969140625 28.141796875 -68 0 -67.9671875 -28.1376953125 -48.1 -48.1 -28.1376953125 -67.9671875 0 -68 Z"/>
+
+<path fill="#3176E8" fill-opacity="0.6627450980392157" stroke="none" d="
+M 48 -48.1
+Q 28.141796875 -67.969140625 0 -68 -28.1376953125 -67.9671875 -48.1 -48.1 -67.9671875 -28.1376953125 -68 0 -67.969140625 28.141796875 -48.1 48 -28.1388671875 67.9724609375 0 67.95 28.14296875 67.97421875 48 48 67.97421875 28.14296875 67.95 0 67.9724609375 -28.1388671875 48 -48.1
+M 0 -64.65
+Q 26.76484375 -64.644921875 45.65 -45.75 64.6466796875 -26.7630859375 64.65 0 64.648046875 26.7650390625 45.65 45.65 26.7650390625 64.648046875 0 64.65 -26.7630859375 64.6466796875 -45.75 45.65 -64.644921875 26.76484375 -64.65 0 -64.6439453125 -26.7625 -45.75 -45.75 -26.7625 -64.6439453125 0 -64.65 Z"/>
+</g>
+
+<g id="Symbol_38_copy_0_Layer1_0_FILL">
+<path fill="#6699FF" fill-opacity="0" stroke="none" d="
+M 28.45 -15.25
+L -29.65 -15.25 -29.65 13.25 28.45 13.25 28.45 -15.25 Z"/>
+</g>
+
+<g id="szlo_0_Layer0_0_FILL">
+<path fill="#B5BDDE" fill-opacity="0.35294117647058826" stroke="none" d="
+M -103.95 98.15
+L -83.3 98.15 -164.55 10.15 -169.25 10.15 -103.95 98.15
+M -66.2 98.15
+L -64.85 98.15 -135.95 10.15 -147.3 10.15 -66.2 98.15
+M 0.75 97.5
+L 17.95 97.45 17.95 76.7 -38.25 10.15 -69.65 10.15 0.75 97.5 Z"/>
+
+<path fill="#B6C0DE" fill-opacity="0.4823529411764706" stroke="none" d="
+M 17.95 10.15
+L 67.7 -51 -113.8 -51 -169.25 10.15 -164.55 10.15 -147.3 10.15 -135.95 10.15 -69.65 10.15 -38.25 10.15 17.95 10.15 Z"/>
+
+<path fill="#F2F7FA" fill-opacity="0.6" stroke="none" d="
+M 69 -51
+L 67.7 -51 17.95 10.15 17.95 76.7 17.95 97.45 17.95 97.5 69 45 69 -51 Z"/>
+</g>
+
+<g id="Symbol_42_0_Layer0_0_FILL">
+<path fill="#000000" stroke="none" d="
+M 58.7 225
+L 58.7 0 -154.7 0 -154.7 225 58.7 225 Z"/>
+</g>
+
+<path id="pp_0_Layer0_0_1_STROKES" stroke="#B0BDD2" stroke-width="1" stroke-linejoin="round" stroke-linecap="round" fill="none" d="
+M 227.45 172.5
+L -227.475 172.5 -227.475 -172.5 227.45 -172.5 227.45 172.5 Z"/>
+
+<path id="Layer16_0_1_STROKES" stroke="#8AA5BF" stroke-width="1" stroke-linejoin="round" stroke-linecap="round" fill="none" d="
+M 146 310
+L -6 310 -6 -9 146 -9 146 310 Z
+M 672.95 -9
+L 520.95 -9 520.95 310 672.95 310 672.95 -9 Z"/>
+
+<path id="minus_uproszczony_0_Layer0_0_1_STROKES" stroke="#FFFFFF" stroke-width="1.75" stroke-linejoin="round" stroke-linecap="round" fill="none" d="
+M -6.5 0
+L 6.5 0"/>
+
+<path id="Symbol_15_0_Layer1_0_1_STROKES" stroke="#FFFFFF" stroke-width="1" stroke-linejoin="round" stroke-linecap="round" fill="none" d="
+M 53.55 -12.7
+L 53.55 55.3
+M -34.15 -14.3
+L -34.15 55.3
+M -121.85 -11.8
+L -121.85 55.3"/>
+
+<path id="Symbol_15_0_Layer0_0_1_STROKES" stroke="#FFFFFF" stroke-width="1" stroke-linejoin="round" stroke-linecap="round" fill="none" d="
+M 10.05 106.1
+L 10.05 36.6
+M -77.95 106.1
+L -77.95 37.9
+M -163.95 37.15
+L -163.95 105.15"/>
+
+<path id="Symbol_14_0_Layer0_0_1_STROKES" stroke="#FFFFFF" stroke-width="1" stroke-linejoin="round" stroke-linecap="round" fill="none" d="
+M -132.95 1.5
+L -121.4 -12.6 -163.95 37.5 -76.65 37.5 -34.1 -12.6 -121.4 -12.6
+M -76.65 37.5
+L 10.65 37.5 53.175 -12.6 -34.1 -12.6"/>
+
+<path id="Symbol_42_0_Layer0_0_1_STROKES" stroke="#000000" stroke-width="1" stroke-linejoin="round" stroke-linecap="round" fill="none" d="
+M 58.7 225
+L -154.675 225 -154.675 0 58.7 0 58.7 225 Z"/>
+
+<font horiz-adv-x="2048">
+<!--  Font Name: Arial
+Vendor ID: TMC 
+© 2006 The Monotype Corporation. All Rights Reserved.
+URL for more Information: http://www.adobe.com/go/font_vendor_id?ID=TMC&Name=Arial&PSName=ArialMT&applanguage=en_US-->
+<font-face font-family="Arial_Regular" units-per-em="2048" ascent="1854" descent="434"/>
+
+<glyph unicode="A" horiz-adv-x="1366" d="
+M 203 0
+L 364 444 977 444 1148 0 1369 0 769 1466 560 1466 -3 0 203 0 Z
+M 581 1032
+Q 632 1171 660 1312 694 1193 764 1008
+L 917 602 420 602 581 1032 Z"/>
+
+<glyph unicode="l" horiz-adv-x="455" d="
+M 311 0
+L 311 1466 131 1466 131 0 311 0 Z"/>
+
+<glyph unicode="M" horiz-adv-x="1706" d="
+M 339 0
+L 339 1248 763 0 938 0 1364 1227 1364 0 1551 0 1551 1466 1290 1466 939 446 861 211 791 428 444 1466 152 1466 152 0 339 0 Z"/>
+
+<glyph unicode="g" horiz-adv-x="1139" d="
+M 215 -346
+Q 332 -431 522 -431 682 -431 792 -371 901 -311 952 -208 1002 -104 1002 144
+L 1002 1062 836 1062 836 934
+Q 714 1086 526 1086 385 1086 281 1016 176 946 121 817 66 689 66 537 66 316 186 158 306 0 525 0 701 0 819 139 820 -37 806 -92 782 -182 714 -232 646 -282 521 -282 405 -282 338 -232 288 -195 277 -114
+L 102 -88
+Q 98 -260 215 -346 Z
+M 335 839
+Q 419 937 539 937 661 937 748 838 834 739 834 544 834 340 750 244 666 149 542 149 417 149 334 245 251 341 251 550 251 742 335 839 Z"/>
+
+<glyph unicode="L" horiz-adv-x="1139" d="
+M 1066 0
+L 1066 173 344 173 344 1466 150 1466 150 0 1066 0 Z"/>
+
+<glyph unicode="i" horiz-adv-x="455" d="
+M 316 0
+L 316 1062 136 1062 136 0 316 0 Z
+M 316 1259
+L 316 1466 136 1466 136 1259 316 1259 Z"/>
+</font>
+
+<font horiz-adv-x="2048">
+<!--  Font Name: Times Roman
+Vendor ID: unknown
+© 1990-99 Apple Computer Inc. © 1981 Linotype AG  © 1990-91 Type Solutions Inc. © 1990-91 The Font Bureau Inc.
+URL for more Information: http://www.adobe.com/go/font_vendor_id?Name=Times&PSName=Times-Roman&applanguage=en_US-->
+<font-face font-family="Arial_CE_Regular" units-per-em="2048" ascent="1536" descent="512"/>
+
+<glyph unicode="+" horiz-adv-x="1155" d="
+M 508 587
+L 61 587 61 447 508 447 508 0 648 0 648 447 1095 447 1095 587 648 587 648 1034 508 1034 508 587 Z"/>
+
+<glyph unicode="2" horiz-adv-x="1024" d="
+M 61 0
+L 860 0 971 279 945 291
+Q 896 202 857 179 818 156 722 156
+L 263 156
+Q 641 545 754 697 867 848 867 1012 867 1166 763 1273 658 1379 489 1379 352 1379 233 1290 113 1200 63 970
+L 106 961
+Q 149 1075 196 1130 281 1230 418 1230 529 1230 609 1153 689 1075 689 927 689 758 558 581 427 403 61 23
+L 61 0 Z"/>
+
+<glyph unicode="3" horiz-adv-x="1024" d="
+M 159 174
+Q 122 174 106 150 89 126 89 100 89 58 139 21 188 -15 311 -15 587 -15 737 130 886 275 886 465 886 626 777 731 719 786 623 827 705 884 744 930 813 1011 813 1108 813 1218 730 1302 646 1386 493 1386 350 1386 241 1295 132 1204 92 1052
+L 123 1045
+Q 176 1137 222 1181 306 1262 416 1262 509 1262 582 1205 654 1148 654 1039 654 916 562 841 470 766 310 708
+L 312 682 340 684 365 685
+Q 586 685 679 548 734 467 734 359 734 248 666 154 598 59 458 59 395 59 305 116 214 174 159 174 Z"/>
+
+<glyph unicode="0" horiz-adv-x="1024" d="
+M 487 1376
+Q 232 1376 109 1123 18 937 18 679 18 351 154 160 281 -19 478 -19 766 -19 883 312 945 488 945 687 945 940 844 1135 717 1376 487 1376 Z
+M 490 38
+Q 314 38 250 292 216 428 216 655 216 896 249 1044 312 1322 482 1322 652 1322 714 1052 747 907 747 665 747 360 692 199 637 38 490 38 Z"/>
+</font>
+</defs>
+
+<g transform="matrix( 1.4662628173828125, 0, 0, 0.884063720703125, 330.7,149.8) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#pp_0_Layer0_0_FILL"/>
+
+<use xlink:href="#pp_0_Layer0_0_1_STROKES"/>
+</g>
+</g>
+
+<mask id="Mask_Mask_1">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#Mask_19_MASK_0_FILL"/>
+</g>
+</mask>
+
+<g mask="url(#Mask_Mask_1)">
+<g id="bad_place" transform="matrix( 1, 0, 0, 1, 202,50) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use filter="url(#Filter_1)" xlink:href="#Symbol_54_0_Layer0_0_FILL"/>
+</g>
+</g>
+</g>
+
+<g mask="url(#Mask_Mask_1)"/>
+
+<g mask="url(#Mask_Mask_1)">
+<g transform="matrix( 1.8794708251953125, 0, 0, 1.0689544677734375, 333.2,148.9) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#tlo_0_Layer0_0_FILL"/>
+</g>
+</g>
+</g>
+
+<g mask="url(#Mask_Mask_1)">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#Layer16_0_FILL"/>
+
+<use xlink:href="#Layer16_0_1_STROKES"/>
+</g>
+</g>
+
+<g mask="url(#Mask_Mask_1)">
+<g id="eGap" transform="matrix( 1, 0, 0, 1, 261.35,105.2) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use filter="url(#Filter_2)" xlink:href="#elekgap_0_Layer0_0_FILL"/>
+</g>
+</g>
+</g>
+
+<g mask="url(#Mask_Mask_1)">
+<g id="e29" transform="matrix( -0.4040985107421875, 0, 0, 0.4040985107421875, 342.75,162.5) ">
+<g transform="matrix( 1, 0, 0, 1, -0.5,-0.45) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use filter="url(#Filter_3)" xlink:href="#minus_uproszczony_0_Layer1_0_FILL"/>
+</g>
+
+<g transform="matrix( 0.1999969482421875, 0, 0, 0.1999969482421875, 4.15,2.7) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use filter="url(#Filter_4)" xlink:href="#Symbol_1_0_Layer0_0_FILL"/>
+</g>
+</g>
+
+<g transform="matrix( 0.2724456787109375, -0.2724456787109375, 0.159088134765625, 0.159088134765625, -6.05,-6.15) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use filter="url(#Filter_5)" xlink:href="#Symbol_2_0_Layer0_0_FILL"/>
+</g>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use filter="url(#Filter_3)" xlink:href="#minus_uproszczony_0_Layer0_0_1_STROKES"/>
+</g>
+</g>
+</g>
+
+<g id="e15" transform="matrix( -0.4040985107421875, 0, 0, -0.4040985107421875, 365.75,204.6) ">
+<g transform="matrix( 1, 0, 0, 1, -0.5,-0.45) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use filter="url(#Filter_6)" xlink:href="#minus_uproszczony_0_Layer1_0_FILL"/>
+</g>
+
+<g transform="matrix( 0.1999969482421875, 0, 0, 0.1999969482421875, 4.15,2.7) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use filter="url(#Filter_7)" xlink:href="#Symbol_1_0_Layer0_0_FILL"/>
+</g>
+</g>
+
+<g transform="matrix( 0.2724456787109375, -0.2724456787109375, 0.159088134765625, 0.159088134765625, -6.05,-6.15) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use filter="url(#Filter_8)" xlink:href="#Symbol_2_0_Layer0_0_FILL"/>
+</g>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use filter="url(#Filter_6)" xlink:href="#minus_uproszczony_0_Layer0_0_1_STROKES"/>
+</g>
+</g>
+</g>
+
+<g id="e17" transform="matrix( 0.40582275390625, 0, 0, 0.405029296875, 436.05,129.1) ">
+<g transform="matrix( 1, 0, 0, 1, -27.05,22.05) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#minus_uproszczony_0_Layer1_0_FILL"/>
+</g>
+
+<g transform="matrix( 0.1999969482421875, 0, 0, 0.1999969482421875, 4.15,2.7) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use filter="url(#Filter_9)" xlink:href="#Symbol_1_0_Layer0_0_FILL"/>
+</g>
+</g>
+
+<g transform="matrix( 0.2724456787109375, -0.2724456787109375, 0.159088134765625, 0.159088134765625, -6.05,-6.15) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use filter="url(#Filter_10)" xlink:href="#Symbol_2_0_Layer0_0_FILL"/>
+</g>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#minus_uproszczony_0_Layer0_0_1_STROKES"/>
+</g>
+</g>
+</g>
+
+<g id="e30" transform="matrix( -0.4040985107421875, 0, 0, 0.4040985107421875, 247.85,170.85) ">
+<g transform="matrix( 1, 0, 0, 1, -0.5,-0.45) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use filter="url(#Filter_3)" xlink:href="#minus_uproszczony_0_Layer1_0_FILL"/>
+</g>
+
+<g transform="matrix( 0.1999969482421875, 0, 0, 0.1999969482421875, 4.15,2.7) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use filter="url(#Filter_4)" xlink:href="#Symbol_1_0_Layer0_0_FILL"/>
+</g>
+</g>
+
+<g transform="matrix( 0.2724456787109375, -0.2724456787109375, 0.159088134765625, 0.159088134765625, -6.05,-6.15) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use filter="url(#Filter_5)" xlink:href="#Symbol_2_0_Layer0_0_FILL"/>
+</g>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use filter="url(#Filter_3)" xlink:href="#minus_uproszczony_0_Layer0_0_1_STROKES"/>
+</g>
+</g>
+</g>
+
+<g id="e25" transform="matrix( 0.4040985107421875, 0, 0, -0.4040985107421875, 370.7,195.95) ">
+<g transform="matrix( 1, 0, 0, 1, -0.5,-0.45) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use filter="url(#Filter_3)" xlink:href="#minus_uproszczony_0_Layer1_0_FILL"/>
+</g>
+
+<g transform="matrix( 0.1999969482421875, 0, 0, 0.1999969482421875, 4.15,2.7) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use filter="url(#Filter_4)" xlink:href="#Symbol_1_0_Layer0_0_FILL"/>
+</g>
+</g>
+
+<g transform="matrix( 0.2724456787109375, -0.2724456787109375, 0.159088134765625, 0.159088134765625, -6.05,-6.15) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use filter="url(#Filter_5)" xlink:href="#Symbol_2_0_Layer0_0_FILL"/>
+</g>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use filter="url(#Filter_3)" xlink:href="#minus_uproszczony_0_Layer0_0_1_STROKES"/>
+</g>
+</g>
+</g>
+
+<g id="e26" transform="matrix( -0.4040985107421875, 0.0000152587890625, -0.0000152587890625, -0.4040985107421875, 316.75,206.85) ">
+<g transform="matrix( 1, 0, 0, 1, -0.5,-0.45) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use filter="url(#Filter_6)" xlink:href="#minus_uproszczony_0_Layer1_0_FILL"/>
+</g>
+
+<g transform="matrix( 0.1999969482421875, 0, 0, 0.1999969482421875, 4.15,2.7) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use filter="url(#Filter_7)" xlink:href="#Symbol_1_0_Layer0_0_FILL"/>
+</g>
+</g>
+
+<g transform="matrix( 0.2724456787109375, -0.2724456787109375, 0.159088134765625, 0.159088134765625, -6.05,-6.15) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use filter="url(#Filter_8)" xlink:href="#Symbol_2_0_Layer0_0_FILL"/>
+</g>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use filter="url(#Filter_6)" xlink:href="#minus_uproszczony_0_Layer0_0_1_STROKES"/>
+</g>
+</g>
+</g>
+
+<g id="e16" transform="matrix( 0.4040985107421875, 0, 0, 0.4040985107421875, 417,154.3) ">
+<g transform="matrix( 1, 0, 0, 1, -27.05,22.05) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#minus_uproszczony_0_Layer1_0_FILL"/>
+</g>
+
+<g transform="matrix( 0.1999969482421875, 0, 0, 0.1999969482421875, 4.15,2.7) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use filter="url(#Filter_9)" xlink:href="#Symbol_1_0_Layer0_0_FILL"/>
+</g>
+</g>
+
+<g transform="matrix( 0.2724456787109375, -0.2724456787109375, 0.159088134765625, 0.159088134765625, -6.05,-6.15) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use filter="url(#Filter_10)" xlink:href="#Symbol_2_0_Layer0_0_FILL"/>
+</g>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#minus_uproszczony_0_Layer0_0_1_STROKES"/>
+</g>
+</g>
+</g>
+
+<g id="e10" transform="matrix( -0.40582275390625, 0, 0, 0.405029296875, 353.1,145.1) ">
+<g transform="matrix( 1, 0, 0, 1, -0.5,-0.45) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use filter="url(#Filter_3)" xlink:href="#minus_uproszczony_0_Layer1_0_FILL"/>
+</g>
+
+<g transform="matrix( 0.1999969482421875, 0, 0, 0.1999969482421875, 4.15,2.7) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use filter="url(#Filter_4)" xlink:href="#Symbol_1_0_Layer0_0_FILL"/>
+</g>
+</g>
+
+<g transform="matrix( 0.2724456787109375, -0.2724456787109375, 0.159088134765625, 0.159088134765625, -6.05,-6.15) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use filter="url(#Filter_5)" xlink:href="#Symbol_2_0_Layer0_0_FILL"/>
+</g>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use filter="url(#Filter_3)" xlink:href="#minus_uproszczony_0_Layer0_0_1_STROKES"/>
+</g>
+</g>
+</g>
+
+<g id="e32" transform="matrix( -0.4040985107421875, 0, 0, 0.4040985107421875, 311.1,95.45) ">
+<g transform="matrix( 1, 0, 0, 1, -0.5,-0.45) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use filter="url(#Filter_3)" xlink:href="#minus_uproszczony_0_Layer1_0_FILL"/>
+</g>
+
+<g transform="matrix( 0.1999969482421875, 0, 0, 0.1999969482421875, 4.15,2.7) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use filter="url(#Filter_4)" xlink:href="#Symbol_1_0_Layer0_0_FILL"/>
+</g>
+</g>
+
+<g transform="matrix( 0.2724456787109375, -0.2724456787109375, 0.159088134765625, 0.159088134765625, -6.05,-6.15) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use filter="url(#Filter_5)" xlink:href="#Symbol_2_0_Layer0_0_FILL"/>
+</g>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use filter="url(#Filter_3)" xlink:href="#minus_uproszczony_0_Layer0_0_1_STROKES"/>
+</g>
+</g>
+</g>
+
+<g id="e18" transform="matrix( -0.4040985107421875, 0, 0, -0.4040985107421875, 370.25,179.75) ">
+<g transform="matrix( 1, 0, 0, 1, -0.5,-0.45) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use filter="url(#Filter_6)" xlink:href="#minus_uproszczony_0_Layer1_0_FILL"/>
+</g>
+
+<g transform="matrix( 0.1999969482421875, 0, 0, 0.1999969482421875, 4.15,2.7) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use filter="url(#Filter_7)" xlink:href="#Symbol_1_0_Layer0_0_FILL"/>
+</g>
+</g>
+
+<g transform="matrix( 0.2724456787109375, -0.2724456787109375, 0.159088134765625, 0.159088134765625, -6.05,-6.15) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use filter="url(#Filter_8)" xlink:href="#Symbol_2_0_Layer0_0_FILL"/>
+</g>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use filter="url(#Filter_6)" xlink:href="#minus_uproszczony_0_Layer0_0_1_STROKES"/>
+</g>
+</g>
+</g>
+
+<g id="e19" transform="matrix( -0.4040985107421875, 0, 0, -0.4040985107421875, 236.1,172.6) ">
+<g transform="matrix( 1, 0, 0, 1, -27.05,22.05) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#minus_uproszczony_0_Layer1_0_FILL"/>
+</g>
+
+<g transform="matrix( 0.1999969482421875, 0, 0, 0.1999969482421875, 4.15,2.7) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use filter="url(#Filter_9)" xlink:href="#Symbol_1_0_Layer0_0_FILL"/>
+</g>
+</g>
+
+<g transform="matrix( 0.2724456787109375, -0.2724456787109375, 0.159088134765625, 0.159088134765625, -6.05,-6.15) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use filter="url(#Filter_10)" xlink:href="#Symbol_2_0_Layer0_0_FILL"/>
+</g>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#minus_uproszczony_0_Layer0_0_1_STROKES"/>
+</g>
+</g>
+</g>
+
+<g id="e31" transform="matrix( -0.4040985107421875, 0, 0, 0.4040985107421875, 268.45,146.35) ">
+<g transform="matrix( 1, 0, 0, 1, -0.5,-0.45) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use filter="url(#Filter_3)" xlink:href="#minus_uproszczony_0_Layer1_0_FILL"/>
+</g>
+
+<g transform="matrix( 0.1999969482421875, 0, 0, 0.1999969482421875, 4.15,2.7) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use filter="url(#Filter_4)" xlink:href="#Symbol_1_0_Layer0_0_FILL"/>
+</g>
+</g>
+
+<g transform="matrix( 0.2724456787109375, -0.2724456787109375, 0.159088134765625, 0.159088134765625, -6.05,-6.15) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use filter="url(#Filter_5)" xlink:href="#Symbol_2_0_Layer0_0_FILL"/>
+</g>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use filter="url(#Filter_3)" xlink:href="#minus_uproszczony_0_Layer0_0_1_STROKES"/>
+</g>
+</g>
+</g>
+
+<g id="e27" transform="matrix( -0.4040985107421875, 0, 0, 0.4040985107421875, 286.9,101) ">
+<g transform="matrix( 1, 0, 0, 1, -0.5,-0.45) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use filter="url(#Filter_3)" xlink:href="#minus_uproszczony_0_Layer1_0_FILL"/>
+</g>
+
+<g transform="matrix( 0.1999969482421875, 0, 0, 0.1999969482421875, 4.15,2.7) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use filter="url(#Filter_4)" xlink:href="#Symbol_1_0_Layer0_0_FILL"/>
+</g>
+</g>
+
+<g transform="matrix( 0.2724456787109375, -0.2724456787109375, 0.159088134765625, 0.159088134765625, -6.05,-6.15) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use filter="url(#Filter_5)" xlink:href="#Symbol_2_0_Layer0_0_FILL"/>
+</g>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use filter="url(#Filter_3)" xlink:href="#minus_uproszczony_0_Layer0_0_1_STROKES"/>
+</g>
+</g>
+</g>
+
+<g id="e28" transform="matrix( 0.4040985107421875, 0, 0, 0.4040985107421875, 381.95,131.9) ">
+<g transform="matrix( 1, 0, 0, 1, -0.5,-0.45) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use filter="url(#Filter_6)" xlink:href="#minus_uproszczony_0_Layer1_0_FILL"/>
+</g>
+
+<g transform="matrix( 0.1999969482421875, 0, 0, 0.1999969482421875, 4.15,2.7) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use filter="url(#Filter_7)" xlink:href="#Symbol_1_0_Layer0_0_FILL"/>
+</g>
+</g>
+
+<g transform="matrix( 0.2724456787109375, -0.2724456787109375, 0.159088134765625, 0.159088134765625, -6.05,-6.15) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use filter="url(#Filter_8)" xlink:href="#Symbol_2_0_Layer0_0_FILL"/>
+</g>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use filter="url(#Filter_6)" xlink:href="#minus_uproszczony_0_Layer0_0_1_STROKES"/>
+</g>
+</g>
+</g>
+
+<g id="e20" transform="matrix( 0.4040985107421875, 0, 0, 0.4040985107421875, 431.25,91.25) ">
+<g transform="matrix( 1, 0, 0, 1, -27.05,22.05) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#minus_uproszczony_0_Layer1_0_FILL"/>
+</g>
+
+<g transform="matrix( 0.1999969482421875, 0, 0, 0.1999969482421875, 4.15,2.7) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use filter="url(#Filter_9)" xlink:href="#Symbol_1_0_Layer0_0_FILL"/>
+</g>
+</g>
+
+<g transform="matrix( 0.2724456787109375, -0.2724456787109375, 0.159088134765625, 0.159088134765625, -6.05,-6.15) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use filter="url(#Filter_10)" xlink:href="#Symbol_2_0_Layer0_0_FILL"/>
+</g>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#minus_uproszczony_0_Layer0_0_1_STROKES"/>
+</g>
+</g>
+</g>
+
+<g id="e22" transform="matrix( 0.40582275390625, 0, 0, -0.405029296875, 407.5,132.3) ">
+<g transform="matrix( 1, 0, 0, 1, -0.5,-0.45) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use filter="url(#Filter_3)" xlink:href="#minus_uproszczony_0_Layer1_0_FILL"/>
+</g>
+
+<g transform="matrix( 0.1999969482421875, 0, 0, 0.1999969482421875, 4.15,2.7) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use filter="url(#Filter_4)" xlink:href="#Symbol_1_0_Layer0_0_FILL"/>
+</g>
+</g>
+
+<g transform="matrix( 0.2724456787109375, -0.2724456787109375, 0.159088134765625, 0.159088134765625, -6.05,-6.15) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use filter="url(#Filter_5)" xlink:href="#Symbol_2_0_Layer0_0_FILL"/>
+</g>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use filter="url(#Filter_3)" xlink:href="#minus_uproszczony_0_Layer0_0_1_STROKES"/>
+</g>
+</g>
+</g>
+
+<g id="e7" transform="matrix( -0.4040985107421875, 0, 0, 0.4040985107421875, 324.25,103.75) ">
+<g transform="matrix( 1, 0, 0, 1, -0.5,-0.45) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use filter="url(#Filter_3)" xlink:href="#minus_uproszczony_0_Layer1_0_FILL"/>
+</g>
+
+<g transform="matrix( 0.1999969482421875, 0, 0, 0.1999969482421875, 4.15,2.7) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use filter="url(#Filter_4)" xlink:href="#Symbol_1_0_Layer0_0_FILL"/>
+</g>
+</g>
+
+<g transform="matrix( 0.2724456787109375, -0.2724456787109375, 0.159088134765625, 0.159088134765625, -6.05,-6.15) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use filter="url(#Filter_5)" xlink:href="#Symbol_2_0_Layer0_0_FILL"/>
+</g>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use filter="url(#Filter_3)" xlink:href="#minus_uproszczony_0_Layer0_0_1_STROKES"/>
+</g>
+</g>
+</g>
+
+<g id="e11" transform="matrix( 0.4040985107421875, 0, 0, 0.4040985107421875, 376.9,85.85) ">
+<g transform="matrix( 1, 0, 0, 1, -0.5,-0.45) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use filter="url(#Filter_6)" xlink:href="#minus_uproszczony_0_Layer1_0_FILL"/>
+</g>
+
+<g transform="matrix( 0.1999969482421875, 0, 0, 0.1999969482421875, 4.15,2.7) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use filter="url(#Filter_7)" xlink:href="#Symbol_1_0_Layer0_0_FILL"/>
+</g>
+</g>
+
+<g transform="matrix( 0.2724456787109375, -0.2724456787109375, 0.159088134765625, 0.159088134765625, -6.05,-6.15) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use filter="url(#Filter_8)" xlink:href="#Symbol_2_0_Layer0_0_FILL"/>
+</g>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use filter="url(#Filter_6)" xlink:href="#minus_uproszczony_0_Layer0_0_1_STROKES"/>
+</g>
+</g>
+</g>
+
+<g id="e21" transform="matrix( 0.4040985107421875, 0, 0, -0.4040985107421875, 312.8,156.15) ">
+<g transform="matrix( 1, 0, 0, 1, -0.5,-0.45) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use filter="url(#Filter_3)" xlink:href="#minus_uproszczony_0_Layer1_0_FILL"/>
+</g>
+
+<g transform="matrix( 0.1999969482421875, 0, 0, 0.1999969482421875, 4.15,2.7) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use filter="url(#Filter_4)" xlink:href="#Symbol_1_0_Layer0_0_FILL"/>
+</g>
+</g>
+
+<g transform="matrix( 0.2724456787109375, -0.2724456787109375, 0.159088134765625, 0.159088134765625, -6.05,-6.15) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use filter="url(#Filter_5)" xlink:href="#Symbol_2_0_Layer0_0_FILL"/>
+</g>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use filter="url(#Filter_3)" xlink:href="#minus_uproszczony_0_Layer0_0_1_STROKES"/>
+</g>
+</g>
+</g>
+
+<g id="e1" transform="matrix( -0.4040985107421875, 0, 0, 0.4040985107421875, 287.75,113.95) ">
+<g transform="matrix( 1, 0, 0, 1, -0.5,-0.45) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use filter="url(#Filter_3)" xlink:href="#minus_uproszczony_0_Layer1_0_FILL"/>
+</g>
+
+<g transform="matrix( 0.1999969482421875, 0, 0, 0.1999969482421875, 4.15,2.7) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use filter="url(#Filter_4)" xlink:href="#Symbol_1_0_Layer0_0_FILL"/>
+</g>
+</g>
+
+<g transform="matrix( 0.2724456787109375, -0.2724456787109375, 0.159088134765625, 0.159088134765625, -6.05,-6.15) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use filter="url(#Filter_5)" xlink:href="#Symbol_2_0_Layer0_0_FILL"/>
+</g>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use filter="url(#Filter_3)" xlink:href="#minus_uproszczony_0_Layer0_0_1_STROKES"/>
+</g>
+</g>
+</g>
+
+<g id="e4" transform="matrix( 0.4040985107421875, 0, 0, 0.4040985107421875, 350.1,117.1) ">
+<g transform="matrix( 1, 0, 0, 1, -0.5,-0.45) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use filter="url(#Filter_6)" xlink:href="#minus_uproszczony_0_Layer1_0_FILL"/>
+</g>
+
+<g transform="matrix( 0.1999969482421875, 0, 0, 0.1999969482421875, 4.15,2.7) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use filter="url(#Filter_7)" xlink:href="#Symbol_1_0_Layer0_0_FILL"/>
+</g>
+</g>
+
+<g transform="matrix( 0.2724456787109375, -0.2724456787109375, 0.159088134765625, 0.159088134765625, -6.05,-6.15) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use filter="url(#Filter_8)" xlink:href="#Symbol_2_0_Layer0_0_FILL"/>
+</g>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use filter="url(#Filter_6)" xlink:href="#minus_uproszczony_0_Layer0_0_1_STROKES"/>
+</g>
+</g>
+</g>
+
+<g id="e9" transform="matrix( -0.4040985107421875, 0.0000152587890625, -0.0000152587890625, -0.4040985107421875, 240.8,207.85) ">
+<g transform="matrix( 1, 0, 0, 1, -27.05,22.05) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#minus_uproszczony_0_Layer1_0_FILL"/>
+</g>
+
+<g transform="matrix( 0.1999969482421875, 0, 0, 0.1999969482421875, 4.15,2.7) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use filter="url(#Filter_9)" xlink:href="#Symbol_1_0_Layer0_0_FILL"/>
+</g>
+</g>
+
+<g transform="matrix( 0.2724456787109375, -0.2724456787109375, 0.159088134765625, 0.159088134765625, -6.05,-6.15) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use filter="url(#Filter_10)" xlink:href="#Symbol_2_0_Layer0_0_FILL"/>
+</g>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#minus_uproszczony_0_Layer0_0_1_STROKES"/>
+</g>
+</g>
+</g>
+
+<g id="e2" transform="matrix( 0.4040985107421875, 0, 0, -0.4040985107421875, 289.75,215.25) ">
+<g transform="matrix( 1, 0, 0, 1, -0.5,-0.45) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use filter="url(#Filter_3)" xlink:href="#minus_uproszczony_0_Layer1_0_FILL"/>
+</g>
+
+<g transform="matrix( 0.1999969482421875, 0, 0, 0.1999969482421875, 4.15,2.7) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use filter="url(#Filter_4)" xlink:href="#Symbol_1_0_Layer0_0_FILL"/>
+</g>
+</g>
+
+<g transform="matrix( 0.2724456787109375, -0.2724456787109375, 0.159088134765625, 0.159088134765625, -6.05,-6.15) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use filter="url(#Filter_5)" xlink:href="#Symbol_2_0_Layer0_0_FILL"/>
+</g>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use filter="url(#Filter_3)" xlink:href="#minus_uproszczony_0_Layer0_0_1_STROKES"/>
+</g>
+</g>
+</g>
+
+<g id="e13" transform="matrix( 0.4040985107421875, 0, 0, 0.4040985107421875, 323.4,116.7) ">
+<g transform="matrix( 1, 0, 0, 1, -0.5,-0.45) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use filter="url(#Filter_6)" xlink:href="#minus_uproszczony_0_Layer1_0_FILL"/>
+</g>
+
+<g transform="matrix( 0.1999969482421875, 0, 0, 0.1999969482421875, 4.15,2.7) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use filter="url(#Filter_7)" xlink:href="#Symbol_1_0_Layer0_0_FILL"/>
+</g>
+</g>
+
+<g transform="matrix( 0.2724456787109375, -0.2724456787109375, 0.159088134765625, 0.159088134765625, -6.05,-6.15) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use filter="url(#Filter_8)" xlink:href="#Symbol_2_0_Layer0_0_FILL"/>
+</g>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use filter="url(#Filter_6)" xlink:href="#minus_uproszczony_0_Layer0_0_1_STROKES"/>
+</g>
+</g>
+</g>
+
+<g id="e14" transform="matrix( 0.4040985107421875, 0, 0, 0.4040985107421875, 350.1,133.15) ">
+<g transform="matrix( 1, 0, 0, 1, -27.05,22.05) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#minus_uproszczony_0_Layer1_0_FILL"/>
+</g>
+
+<g transform="matrix( 0.1999969482421875, 0, 0, 0.1999969482421875, 4.15,2.7) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use filter="url(#Filter_9)" xlink:href="#Symbol_1_0_Layer0_0_FILL"/>
+</g>
+</g>
+
+<g transform="matrix( 0.2724456787109375, -0.2724456787109375, 0.159088134765625, 0.159088134765625, -6.05,-6.15) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use filter="url(#Filter_10)" xlink:href="#Symbol_2_0_Layer0_0_FILL"/>
+</g>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#minus_uproszczony_0_Layer0_0_1_STROKES"/>
+</g>
+</g>
+</g>
+
+<g id="e5" transform="matrix( -0.4040985107421875, 0, 0, 0.4040985107421875, 270.15,122.75) ">
+<g transform="matrix( 1, 0, 0, 1, -0.5,-0.45) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use filter="url(#Filter_3)" xlink:href="#minus_uproszczony_0_Layer1_0_FILL"/>
+</g>
+
+<g transform="matrix( 0.1999969482421875, 0, 0, 0.1999969482421875, 4.15,2.7) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use filter="url(#Filter_4)" xlink:href="#Symbol_1_0_Layer0_0_FILL"/>
+</g>
+</g>
+
+<g transform="matrix( 0.2724456787109375, -0.2724456787109375, 0.159088134765625, 0.159088134765625, -6.05,-6.15) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use filter="url(#Filter_5)" xlink:href="#Symbol_2_0_Layer0_0_FILL"/>
+</g>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use filter="url(#Filter_3)" xlink:href="#minus_uproszczony_0_Layer0_0_1_STROKES"/>
+</g>
+</g>
+</g>
+
+<g id="e8" transform="matrix( 0.4040985107421875, 0, 0, 0.4040985107421875, 334.25,127.2) ">
+<g transform="matrix( 1, 0, 0, 1, -27.05,22.05) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#minus_uproszczony_0_Layer1_0_FILL"/>
+</g>
+
+<g transform="matrix( 0.1999969482421875, 0, 0, 0.1999969482421875, 4.15,2.7) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use filter="url(#Filter_9)" xlink:href="#Symbol_1_0_Layer0_0_FILL"/>
+</g>
+</g>
+
+<g transform="matrix( 0.2724456787109375, -0.2724456787109375, 0.159088134765625, 0.159088134765625, -6.05,-6.15) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use filter="url(#Filter_10)" xlink:href="#Symbol_2_0_Layer0_0_FILL"/>
+</g>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#minus_uproszczony_0_Layer0_0_1_STROKES"/>
+</g>
+</g>
+</g>
+
+<g id="e3" transform="matrix( -0.4040985107421875, 0, 0, 0.4040985107421875, 327,165.45) ">
+<g transform="matrix( 1, 0, 0, 1, -0.5,-0.45) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use filter="url(#Filter_3)" xlink:href="#minus_uproszczony_0_Layer1_0_FILL"/>
+</g>
+
+<g transform="matrix( 0.1999969482421875, 0, 0, 0.1999969482421875, 4.15,2.7) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use filter="url(#Filter_4)" xlink:href="#Symbol_1_0_Layer0_0_FILL"/>
+</g>
+</g>
+
+<g transform="matrix( 0.2724456787109375, -0.2724456787109375, 0.159088134765625, 0.159088134765625, -6.05,-6.15) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use filter="url(#Filter_5)" xlink:href="#Symbol_2_0_Layer0_0_FILL"/>
+</g>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use filter="url(#Filter_3)" xlink:href="#minus_uproszczony_0_Layer0_0_1_STROKES"/>
+</g>
+</g>
+</g>
+
+<g id="e33" transform="matrix( -0.4040985107421875, 0, 0, -0.4040985107421875, 276.55,187.25) ">
+<g transform="matrix( 1, 0, 0, 1, -27.05,22.05) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#minus_uproszczony_0_Layer1_0_FILL"/>
+</g>
+
+<g transform="matrix( 0.1999969482421875, 0, 0, 0.1999969482421875, 4.15,2.7) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use filter="url(#Filter_9)" xlink:href="#Symbol_1_0_Layer0_0_FILL"/>
+</g>
+</g>
+
+<g transform="matrix( 0.2724456787109375, -0.2724456787109375, 0.159088134765625, 0.159088134765625, -6.05,-6.15) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use filter="url(#Filter_10)" xlink:href="#Symbol_2_0_Layer0_0_FILL"/>
+</g>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#minus_uproszczony_0_Layer0_0_1_STROKES"/>
+</g>
+</g>
+</g>
+
+<g id="e34" transform="matrix( -0.4040985107421875, 0, 0, -0.4040985107421875, 304.8,180.75) ">
+<g transform="matrix( 1, 0, 0, 1, -27.05,22.05) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#minus_uproszczony_0_Layer1_0_FILL"/>
+</g>
+
+<g transform="matrix( 0.1999969482421875, 0, 0, 0.1999969482421875, 4.15,2.7) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use filter="url(#Filter_9)" xlink:href="#Symbol_1_0_Layer0_0_FILL"/>
+</g>
+</g>
+
+<g transform="matrix( 0.2724456787109375, -0.2724456787109375, 0.159088134765625, 0.159088134765625, -6.05,-6.15) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use filter="url(#Filter_10)" xlink:href="#Symbol_2_0_Layer0_0_FILL"/>
+</g>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#minus_uproszczony_0_Layer0_0_1_STROKES"/>
+</g>
+</g>
+</g>
+
+<g id="e35" transform="matrix( -0.4040985107421875, 0, 0, -0.4040985107421875, 327.45,194.5) ">
+<g transform="matrix( 1, 0, 0, 1, -27.05,22.05) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#minus_uproszczony_0_Layer1_0_FILL"/>
+</g>
+
+<g transform="matrix( 0.1999969482421875, 0, 0, 0.1999969482421875, 4.15,2.7) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use filter="url(#Filter_9)" xlink:href="#Symbol_1_0_Layer0_0_FILL"/>
+</g>
+</g>
+
+<g transform="matrix( 0.2724456787109375, -0.2724456787109375, 0.159088134765625, 0.159088134765625, -6.05,-6.15) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use filter="url(#Filter_10)" xlink:href="#Symbol_2_0_Layer0_0_FILL"/>
+</g>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#minus_uproszczony_0_Layer0_0_1_STROKES"/>
+</g>
+</g>
+</g>
+
+<g id="e36" transform="matrix( 0.4048004150390625, 0, 0, 0.4048004150390625, 337.05,137.5) ">
+<g transform="matrix( 1, 0, 0, 1, -27.05,22.05) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#minus_uproszczony_0_Layer1_0_FILL"/>
+</g>
+
+<g transform="matrix( 0.1999969482421875, 0, 0, 0.1999969482421875, 4.15,2.7) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use filter="url(#Filter_9)" xlink:href="#Symbol_1_0_Layer0_0_FILL"/>
+</g>
+</g>
+
+<g transform="matrix( 0.2724456787109375, -0.2724456787109375, 0.159088134765625, 0.159088134765625, -6.05,-6.15) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use filter="url(#Filter_10)" xlink:href="#Symbol_2_0_Layer0_0_FILL"/>
+</g>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#minus_uproszczony_0_Layer0_0_1_STROKES"/>
+</g>
+</g>
+</g>
+
+<g id="e24" transform="matrix( -0.4048004150390625, 0, 0, -0.4048004150390625, 276.7,163.1) ">
+<g transform="matrix( 1, 0, 0, 1, -27.05,22.05) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#minus_uproszczony_0_Layer1_0_FILL"/>
+</g>
+
+<g transform="matrix( 0.1999969482421875, 0, 0, 0.1999969482421875, 4.15,2.7) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use filter="url(#Filter_9)" xlink:href="#Symbol_1_0_Layer0_0_FILL"/>
+</g>
+</g>
+
+<g transform="matrix( 0.2724456787109375, -0.2724456787109375, 0.159088134765625, 0.159088134765625, -6.05,-6.15) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use filter="url(#Filter_10)" xlink:href="#Symbol_2_0_Layer0_0_FILL"/>
+</g>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#minus_uproszczony_0_Layer0_0_1_STROKES"/>
+</g>
+</g>
+</g>
+
+<g id="e6" transform="matrix( -0.4048004150390625, 0, 0, -0.4048004150390625, 281.75,137.35) ">
+<g transform="matrix( 1, 0, 0, 1, -27.05,22.05) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#minus_uproszczony_0_Layer1_0_FILL"/>
+</g>
+
+<g transform="matrix( 0.1999969482421875, 0, 0, 0.1999969482421875, 4.15,2.7) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use filter="url(#Filter_9)" xlink:href="#Symbol_1_0_Layer0_0_FILL"/>
+</g>
+</g>
+
+<g transform="matrix( 0.2724456787109375, -0.2724456787109375, 0.159088134765625, 0.159088134765625, -6.05,-6.15) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use filter="url(#Filter_10)" xlink:href="#Symbol_2_0_Layer0_0_FILL"/>
+</g>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#minus_uproszczony_0_Layer0_0_1_STROKES"/>
+</g>
+</g>
+</g>
+
+<g id="e23" transform="matrix( 0.4048004150390625, 0, 0, 0.4048004150390625, 361.7,180.4) ">
+<g transform="matrix( 1, 0, 0, 1, -27.05,22.05) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#minus_uproszczony_0_Layer1_0_FILL"/>
+</g>
+
+<g transform="matrix( 0.1999969482421875, 0, 0, 0.1999969482421875, 4.15,2.7) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use filter="url(#Filter_9)" xlink:href="#Symbol_1_0_Layer0_0_FILL"/>
+</g>
+</g>
+
+<g transform="matrix( 0.2724456787109375, -0.2724456787109375, 0.159088134765625, 0.159088134765625, -6.05,-6.15) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use filter="url(#Filter_10)" xlink:href="#Symbol_2_0_Layer0_0_FILL"/>
+</g>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#minus_uproszczony_0_Layer0_0_1_STROKES"/>
+</g>
+</g>
+</g>
+
+<g id="e12" transform="matrix( 0.4048004150390625, 0, 0, 0.4048004150390625, 369.05,128.05) ">
+<g transform="matrix( 1, 0, 0, 1, -27.05,22.05) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#minus_uproszczony_0_Layer1_0_FILL"/>
+</g>
+
+<g transform="matrix( 0.1999969482421875, 0, 0, 0.1999969482421875, 4.15,2.7) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use filter="url(#Filter_9)" xlink:href="#Symbol_1_0_Layer0_0_FILL"/>
+</g>
+</g>
+
+<g transform="matrix( 0.2724456787109375, -0.2724456787109375, 0.159088134765625, 0.159088134765625, -6.05,-6.15) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use filter="url(#Filter_10)" xlink:href="#Symbol_2_0_Layer0_0_FILL"/>
+</g>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#minus_uproszczony_0_Layer0_0_1_STROKES"/>
+</g>
+</g>
+</g>
+</g>
+
+<g mask="url(#Mask_Mask_1)">
+<g transform="matrix( 0.8799285888671875, 0, 0, 0.8799285888671875, 396.6,111.75) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use filter="url(#Filter_11)" xlink:href="#Symbol_15_0_Layer1_0_1_STROKES"/>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use filter="url(#Filter_11)" xlink:href="#Symbol_15_0_Layer0_0_1_STROKES"/>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 0,-0.35) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use filter="url(#Filter_11)" xlink:href="#Symbol_14_0_Layer0_0_1_STROKES"/>
+</g>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 0,67.65) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use filter="url(#Filter_11)" xlink:href="#Symbol_14_0_Layer0_0_1_STROKES"/>
+</g>
+</g>
+</g>
+</g>
+
+<g mask="url(#Mask_Mask_1)">
+<g id="g1" transform="matrix( 1.102691650390625, 0, 0, 1.102691650390625, 273.35,82.8) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use filter="url(#Filter_2)" xlink:href="#Symbol_53_0_Layer0_0_FILL"/>
+</g>
+</g>
+
+<g id="g2" transform="matrix( 1.102691650390625, 0, 0, 1.102691650390625, 349.6,82.65) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use filter="url(#Filter_2)" xlink:href="#Symbol_53_0_Layer0_0_FILL"/>
+</g>
+</g>
+
+<g id="g3" transform="matrix( 1.102691650390625, 0, 0, 1.102691650390625, 427.6,82.6) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use filter="url(#Filter_2)" xlink:href="#Symbol_53_0_Layer0_0_FILL"/>
+</g>
+</g>
+
+<g id="g9" transform="matrix( 1.102691650390625, 0, 0, 1.102691650390625, 389.15,125.75) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use filter="url(#Filter_2)" xlink:href="#Symbol_53_0_Layer0_0_FILL"/>
+</g>
+</g>
+
+<g id="g8" transform="matrix( 1.102691650390625, 0, 0, 1.102691650390625, 313.75,126.1) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use filter="url(#Filter_2)" xlink:href="#Symbol_53_0_Layer0_0_FILL"/>
+</g>
+</g>
+
+<g id="g7" transform="matrix( 1.102691650390625, 0, 0, 1.102691650390625, 237.7,125.75) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use filter="url(#Filter_2)" xlink:href="#Symbol_53_0_Layer0_0_FILL"/>
+</g>
+</g>
+
+<g id="g4" transform="matrix( 1.102691650390625, 0, 0, 1.102691650390625, 275.1,142.25) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use filter="url(#Filter_2)" xlink:href="#Symbol_53_0_Layer0_0_FILL"/>
+</g>
+</g>
+
+<g id="g6" transform="matrix( 1.102691650390625, 0, 0, 1.102691650390625, 427.95,142.05) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use filter="url(#Filter_2)" xlink:href="#Symbol_53_0_Layer0_0_FILL"/>
+</g>
+</g>
+
+<g id="g12" transform="matrix( 1.102691650390625, 0, 0, 1.102691650390625, 389.45,185.9) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use filter="url(#Filter_2)" xlink:href="#Symbol_53_0_Layer0_0_FILL"/>
+</g>
+</g>
+
+<g id="g11" transform="matrix( 1.102691650390625, 0, 0, 1.102691650390625, 313.4,184.8) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use filter="url(#Filter_2)" xlink:href="#Symbol_53_0_Layer0_0_FILL"/>
+</g>
+</g>
+
+<g id="g10" transform="matrix( 1.102691650390625, 0, 0, 1.102691650390625, 238,185.9) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use filter="url(#Filter_2)" xlink:href="#Symbol_53_0_Layer0_0_FILL"/>
+</g>
+</g>
+
+<g id="g5" transform="matrix( 1.102691650390625, 0, 0, 1.102691650390625, 350.65,143.5) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use filter="url(#Filter_2)" xlink:href="#Symbol_53_0_Layer0_0_FILL"/>
+</g>
+</g>
+</g>
+
+<g mask="url(#Mask_Mask_1)">
+<g id="k2" transform="matrix( 0.35198974609375, 0, 0, 0.351898193359375, 366.65,99.2) "/>
+
+<g id="k1" transform="matrix( 0.35198974609375, 0, 0, 0.351898193359375, 288.4,99.2) "/>
+
+<g id="k6" transform="matrix( 0.35198974609375, 0, 0, 0.351898193359375, 444.95,160.8) "/>
+
+<g id="k4" transform="matrix( 0.35198974609375, 0, 0, 0.351898193359375, 291.35,160.8) "/>
+
+<g id="k3" transform="matrix( 0.35198974609375, 0, 0, 0.351898193359375, 444.95,99.2) "/>
+
+<g id="k5" transform="matrix( 0.35198974609375, 0, 0, 0.351898193359375, 366.4,160.8) "/>
+
+<g id="anime1" transform="matrix( 1.2570648193359375, 0, 0, 1.2570648193359375, 391.15,168.3) ">
+<g transform="matrix( 1, 0, 0, 1, -27.15,-15.25) "/>
+
+<g transform="matrix( -1, 0, 0, 1, -80,-10.5) "/>
+</g>
+
+<g id="k8" transform="matrix( 0.35198974609375, 0, 0, 0.351898193359375, 328.1,143.6) "/>
+
+<g id="k7" transform="matrix( 0.35198974609375, 0, 0, 0.351898193359375, 252.75,145.75) "/>
+
+<g id="k12" transform="matrix( 0.35198974609375, 0, 0, 0.351898193359375, 406.4,205.15) "/>
+
+<g id="k10" transform="matrix( 0.35198974609375, 0, 0, 0.351898193359375, 252.8,205.15) "/>
+
+<g id="k9" transform="matrix( 0.35198974609375, 0, 0, 0.351898193359375, 406.4,143.6) "/>
+
+<g id="k11" transform="matrix( 0.35198974609375, 0, 0, 0.351898193359375, 327.9,205.15) "/>
+</g>
+
+<g mask="url(#Mask_Mask_1)"/>
+
+<g mask="url(#Mask_Mask_1)">
+<g id="m3" transform="matrix( 0.6999969482421875, 0, 0, 0.6999969482421875, 74.8,62.5) ">
+<g transform="matrix( 1, 0, 0, 1, -220.65,-151.65) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#al_0_Layer0_0_FILL"/>
+</g>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, -13.7,-15.35) ">
+<clipPath id="Mask_Mask_2">
+<rect x="-2" y="-2" width="29.9" height="36.4" fill="#FFFFFF" stroke="none"/>
+</clipPath>
+
+<text clip-path="url(#Mask_Mask_2)" writing-mode="lr"><tspan x="0" y="26.25" baseline-shift="0%" kerning="auto" font-family="Arial_Regular" font-size="29" fill="#5E7165" xml:space="preserve">Al</tspan></text>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, -12.5,-16.55) ">
+<clipPath id="Mask_Mask_3">
+<rect x="-2" y="-2" width="29.9" height="36.4" fill="#FFFFFF" stroke="none"/>
+</clipPath>
+
+<text clip-path="url(#Mask_Mask_3)" writing-mode="lr"><tspan x="0" y="26.25" baseline-shift="0%" kerning="auto" font-family="Arial_Regular" font-size="29" fill="#FFFFFF" xml:space="preserve">Al</tspan></text>
+</g>
+</g>
+
+<g id="m2" transform="matrix( 0.6999969482421875, 0, 0, 0.6999969482421875, 74.7,162.5) ">
+<g transform="matrix( 1, 0, 0, 1, -220.65,-151.65) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#Symbol_11_0_Layer1_0_FILL"/>
+</g>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, -17.55,-15.6) ">
+<clipPath id="Mask_Mask_4">
+<rect x="-2" y="-2" width="44.45" height="36.4" fill="#FFFFFF" stroke="none"/>
+</clipPath>
+
+<text clip-path="url(#Mask_Mask_4)" writing-mode="lr"><tspan x="0" y="26.25" baseline-shift="0%" kerning="auto" font-family="Arial_Regular" font-size="29" fill="#333333" xml:space="preserve">Mg</tspan></text>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, -16.05,-17.1) ">
+<clipPath id="Mask_Mask_5">
+<rect x="-2" y="-2" width="44.45" height="36.4" fill="#FFFFFF" stroke="none"/>
+</clipPath>
+
+<text clip-path="url(#Mask_Mask_5)" writing-mode="lr"><tspan x="0" y="26.25" baseline-shift="0%" kerning="auto" font-family="Arial_Regular" font-size="29" fill="#FFFFFF" xml:space="preserve">Mg</tspan></text>
+</g>
+</g>
+
+<g id="m1" transform="matrix( 0.6999969482421875, 0, 0, 0.6999969482421875, 74.65,112.55) ">
+<g transform="matrix( 1, 0, 0, 1, -220.65,-151.65) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#ag_0_Layer0_0_FILL"/>
+</g>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, -17.75,-15.4) ">
+<clipPath id="Mask_Mask_6">
+<rect x="-2" y="-2" width="26.7" height="36.4" fill="#FFFFFF" stroke="none"/>
+</clipPath>
+
+<text clip-path="url(#Mask_Mask_6)" writing-mode="lr"><tspan x="0" y="26.25" baseline-shift="0%" kerning="auto" font-family="Arial_Regular" font-size="29" fill="#333333" xml:space="preserve">Li</tspan></text>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, -16.55,-16.6) ">
+<clipPath id="Mask_Mask_7">
+<rect x="-2" y="-2" width="26.7" height="36.4" fill="#FFFFFF" stroke="none"/>
+</clipPath>
+
+<text clip-path="url(#Mask_Mask_7)" writing-mode="lr"><tspan x="0" y="26.25" baseline-shift="0%" kerning="auto" font-family="Arial_Regular" font-size="29" fill="#FFFFFF" xml:space="preserve">Li</tspan></text>
+</g>
+</g>
+</g>
+
+<g mask="url(#Mask_Mask_1)">
+<g id="b1" transform="matrix( 0.834808349609375, 0, 0, 0.834808349609375, 624.8,146.9) ">
+<g transform="matrix( 0.41998291015625, 0, 0, 0.41998291015625, 0.8,3.25) ">
+<g transform="matrix( 1, 0, 0, 1, -0.05,-0.05) ">
+<g transform="matrix( 1, 0, 0, 1, -1.6,-0.35) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#Symbol_5_0_Layer0_0_FILL"/>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#Symbol_5_0_Layer0_1_FILL"/>
+</g>
+</g>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 16.15,10.85) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use filter="url(#Filter_12)" xlink:href="#Symbol_1_0_Layer0_0_FILL"/>
+</g>
+</g>
+
+<g transform="matrix( 1.08978271484375, -1.08978271484375, 0.6363525390625, 0.6363525390625, -26.15,-37.1) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use filter="url(#Filter_13)" xlink:href="#Symbol_2_0_Layer0_0_FILL"/>
+</g>
+</g>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, -45.9,-44.15) ">
+<clipPath id="Mask_Mask_8">
+<rect x="-2" y="-2" width="95.75" height="83" fill="#FFFFFF" stroke="none"/>
+</clipPath>
+
+<text clip-path="url(#Mask_Mask_8)" writing-mode="lr"><tspan x="22.8" y="60.85" baseline-shift="0%" kerning="0" font-family="Arial_CE_Regular" font-size="79" fill="#FFFFFF" xml:space="preserve">+</tspan></text>
+</g>
+</g>
+</g>
+
+<g id="b2" transform="matrix( 0.6342010498046875, 0, 0, 0.63409423828125, 625.3,85.4) ">
+<g transform="matrix( 0.4420318603515625, 0, 0, 0.4420318603515625, 0,0) ">
+<g transform="matrix( 1, 0, 0, 1, -0.05,-0.05) ">
+<g transform="matrix( 1, 0, 0, 1, -1.6,-0.35) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#Symbol_5_0_Layer0_0_FILL"/>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#Symbol_5_0_Layer0_1_FILL"/>
+</g>
+</g>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 16.15,10.85) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use filter="url(#Filter_12)" xlink:href="#Symbol_1_0_Layer0_0_FILL"/>
+</g>
+</g>
+
+<g transform="matrix( 1.08978271484375, -1.08978271484375, 0.6363525390625, 0.6363525390625, -26.15,-37.1) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use filter="url(#Filter_13)" xlink:href="#Symbol_2_0_Layer0_0_FILL"/>
+</g>
+</g>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, -45.9,-44.15) ">
+<clipPath id="Mask_Mask_9">
+<rect x="-2" y="-2" width="95.75" height="83" fill="#FFFFFF" stroke="none"/>
+</clipPath>
+
+<text clip-path="url(#Mask_Mask_9)" writing-mode="lr"><tspan x="0.85" y="60.85" baseline-shift="0%" kerning="0" font-family="Arial_CE_Regular" font-size="79" fill="#FFFFFF" xml:space="preserve">2+</tspan></text>
+</g>
+</g>
+</g>
+
+<g id="b3" transform="matrix( 0.5563507080078125, 0, 0, 0.5563507080078125, 625.3,31.2) ">
+<g transform="matrix( 0.3779754638671875, 0, 0, 0.3779754638671875, 0,0) ">
+<g transform="matrix( 1, 0, 0, 1, -0.05,-0.05) ">
+<g transform="matrix( 1, 0, 0, 1, -1.6,-0.35) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#Symbol_5_0_Layer0_0_FILL"/>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#Symbol_5_0_Layer0_1_FILL"/>
+</g>
+</g>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 16.15,10.85) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use filter="url(#Filter_12)" xlink:href="#Symbol_1_0_Layer0_0_FILL"/>
+</g>
+</g>
+
+<g transform="matrix( 1.08978271484375, -1.08978271484375, 0.6363525390625, 0.6363525390625, -26.15,-37.1) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use filter="url(#Filter_13)" xlink:href="#Symbol_2_0_Layer0_0_FILL"/>
+</g>
+</g>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, -45.9,-44.15) ">
+<clipPath id="Mask_Mask_10">
+<rect x="-2" y="-2" width="95.75" height="83" fill="#FFFFFF" stroke="none"/>
+</clipPath>
+
+<text clip-path="url(#Mask_Mask_10)" writing-mode="lr"><tspan x="0.85" y="60.85" baseline-shift="0%" kerning="0" font-family="Arial_CE_Regular" font-size="79" fill="#FFFFFF" xml:space="preserve">3+</tspan></text>
+</g>
+</g>
+</g>
+
+<g id="el" transform="matrix( 1, 0, 0, 1, 625.2,210.8) ">
+<g transform="matrix( 0.728973388671875, 0, 0, 0.728973388671875, 0,0) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#minus_uproszczony_0_Layer1_0_FILL"/>
+</g>
+
+<g transform="matrix( 0.1999969482421875, 0, 0, 0.1999969482421875, 4.15,2.7) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use filter="url(#Filter_9)" xlink:href="#Symbol_1_0_Layer0_0_FILL"/>
+</g>
+</g>
+
+<g transform="matrix( 0.2724456787109375, -0.2724456787109375, 0.159088134765625, 0.159088134765625, -6.05,-6.15) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use filter="url(#Filter_10)" xlink:href="#Symbol_2_0_Layer0_0_FILL"/>
+</g>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#minus_uproszczony_0_Layer0_0_1_STROKES"/>
+</g>
+</g>
+</g>
+
+<g id="skrem" transform="matrix( 1, 0, 0, 1, 331.05,151) "/>
+
+<g id="el5" transform="matrix( 1, 0, 0, 1, 624.15,247.3) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#Symbol_38_copy_0_Layer1_0_FILL"/>
+</g>
+
+<g transform="matrix( 0.528167724609375, 0, 0, 0.528167724609375, -19.25,5.8) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#minus_uproszczony_0_Layer1_0_FILL"/>
+</g>
+
+<g transform="matrix( 0.1999969482421875, 0, 0, 0.1999969482421875, 4.15,2.7) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use filter="url(#Filter_9)" xlink:href="#Symbol_1_0_Layer0_0_FILL"/>
+</g>
+</g>
+
+<g transform="matrix( 0.2724456787109375, -0.2724456787109375, 0.159088134765625, 0.159088134765625, -6.05,-6.15) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use filter="url(#Filter_10)" xlink:href="#Symbol_2_0_Layer0_0_FILL"/>
+</g>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#minus_uproszczony_0_Layer0_0_1_STROKES"/>
+</g>
+</g>
+
+<g transform="matrix( 0.528167724609375, 0, 0, 0.528167724609375, 0.65,5.95) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#minus_uproszczony_0_Layer1_0_FILL"/>
+</g>
+
+<g transform="matrix( 0.1999969482421875, 0, 0, 0.1999969482421875, 4.15,2.7) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use filter="url(#Filter_9)" xlink:href="#Symbol_1_0_Layer0_0_FILL"/>
+</g>
+</g>
+
+<g transform="matrix( 0.2724456787109375, -0.2724456787109375, 0.159088134765625, 0.159088134765625, -6.05,-6.15) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use filter="url(#Filter_10)" xlink:href="#Symbol_2_0_Layer0_0_FILL"/>
+</g>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#minus_uproszczony_0_Layer0_0_1_STROKES"/>
+</g>
+</g>
+
+<g transform="matrix( 0.528167724609375, 0, 0, 0.528167724609375, 20.75,5.8) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#minus_uproszczony_0_Layer1_0_FILL"/>
+</g>
+
+<g transform="matrix( 0.1999969482421875, 0, 0, 0.1999969482421875, 4.15,2.7) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use filter="url(#Filter_9)" xlink:href="#Symbol_1_0_Layer0_0_FILL"/>
+</g>
+</g>
+
+<g transform="matrix( 0.2724456787109375, -0.2724456787109375, 0.159088134765625, 0.159088134765625, -6.05,-6.15) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use filter="url(#Filter_10)" xlink:href="#Symbol_2_0_Layer0_0_FILL"/>
+</g>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#minus_uproszczony_0_Layer0_0_1_STROKES"/>
+</g>
+</g>
+
+<g transform="matrix( 0.528167724609375, 0, 0, 0.528167724609375, -9.25,-9.2) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#minus_uproszczony_0_Layer1_0_FILL"/>
+</g>
+
+<g transform="matrix( 0.1999969482421875, 0, 0, 0.1999969482421875, 4.15,2.7) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use filter="url(#Filter_9)" xlink:href="#Symbol_1_0_Layer0_0_FILL"/>
+</g>
+</g>
+
+<g transform="matrix( 0.2724456787109375, -0.2724456787109375, 0.159088134765625, 0.159088134765625, -6.05,-6.15) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use filter="url(#Filter_10)" xlink:href="#Symbol_2_0_Layer0_0_FILL"/>
+</g>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#minus_uproszczony_0_Layer0_0_1_STROKES"/>
+</g>
+</g>
+
+<g transform="matrix( 0.528167724609375, 0, 0, 0.528167724609375, 10.75,-9.2) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#minus_uproszczony_0_Layer1_0_FILL"/>
+</g>
+
+<g transform="matrix( 0.1999969482421875, 0, 0, 0.1999969482421875, 4.15,2.7) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use filter="url(#Filter_9)" xlink:href="#Symbol_1_0_Layer0_0_FILL"/>
+</g>
+</g>
+
+<g transform="matrix( 0.2724456787109375, -0.2724456787109375, 0.159088134765625, 0.159088134765625, -6.05,-6.15) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use filter="url(#Filter_10)" xlink:href="#Symbol_2_0_Layer0_0_FILL"/>
+</g>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#minus_uproszczony_0_Layer0_0_1_STROKES"/>
+</g>
+</g>
+</g>
+</g>
+
+<g mask="url(#Mask_Mask_1)">
+<g id="szyba" transform="matrix( 1.2374725341796875, 0, 0, 1.2374725341796875, 402.35,117.95) ">
+<g id="szklo" transform="matrix( 1, 0, 0, 1, -169.25,-51) ">
+<g transform="matrix( 1, 0, 0, 1, 169.25,51) ">
+<use xlink:href="#szlo_0_Layer0_0_FILL"/>
+</g>
+</g>
+</g>
+</g>
+
+<g id="li4" transform="matrix( 1, 0, 0, 1, 550.85,216.65) ">
+<clipPath id="Mask_Mask_11">
+<rect x="-2" y="-2" width="35.1" height="24.1" fill="#FFFFFF" stroke="none"/>
+</clipPath>
+
+<text clip-path="url(#Mask_Mask_11)" writing-mode="lr"><tspan x="10.55" y="13.85" baseline-shift="0%" kerning="0" font-family="Arial_CE_Regular" font-size="18" fill="#000000" xml:space="preserve">0</tspan></text>
+</g>
+
+<g id="li1" transform="matrix( 1, 0, 0, 1, 550.85,141.75) ">
+<clipPath id="Mask_Mask_12">
+<rect x="-2" y="-2" width="33.1" height="24.1" fill="#FFFFFF" stroke="none"/>
+</clipPath>
+
+<text clip-path="url(#Mask_Mask_12)" writing-mode="lr"><tspan x="9.55" y="13.85" baseline-shift="0%" kerning="0" font-family="Arial_CE_Regular" font-size="18" fill="#000000" xml:space="preserve">0</tspan></text>
+</g>
+
+<g id="li2" transform="matrix( 1, 0, 0, 1, 550.85,76.15) ">
+<clipPath id="Mask_Mask_13">
+<rect x="-2" y="-2" width="34.1" height="24.1" fill="#FFFFFF" stroke="none"/>
+</clipPath>
+
+<text clip-path="url(#Mask_Mask_13)" writing-mode="lr"><tspan x="10.05" y="13.85" baseline-shift="0%" kerning="0" font-family="Arial_CE_Regular" font-size="18" fill="#000000" xml:space="preserve">0</tspan></text>
+</g>
+
+<g id="li3" transform="matrix( 1, 0, 0, 1, 550.85,21.35) ">
+<clipPath id="Mask_Mask_14">
+<rect x="-2" y="-2" width="34.1" height="24.1" fill="#FFFFFF" stroke="none"/>
+</clipPath>
+
+<text clip-path="url(#Mask_Mask_14)" writing-mode="lr"><tspan x="10.05" y="13.85" baseline-shift="0%" kerning="0" font-family="Arial_CE_Regular" font-size="18" fill="#000000" xml:space="preserve">0</tspan></text>
+</g>
+
+<g id="blok" transform="matrix( 3.026092529296875, 0, 0, 1.1948699951171875, 485.95,22) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use filter="url(#Filter_2)" xlink:href="#Symbol_42_0_Layer0_0_FILL"/>
+
+<use filter="url(#Filter_2)" xlink:href="#Symbol_42_0_Layer0_0_1_STROKES"/>
+</g>
+</g>
+
+<g id="snd" transform="matrix( 1, 0, 0, 1, -38.55,0.45) "/>
+
+<g id="nn" transform="matrix( 1, 0, 0, 1, -38.55,20.45) "/>
+</svg>
